@@ -11,7 +11,8 @@ such as utilization of .getResource and packages. Although this was created usin
 [Required Font](CARDC___.TTF)  
 [Java Source Files](SnakeEyes21/src/JavaSources)  
 [Download and Play](SnakeEyes21/dist/SnakeEyes21.jar)
-## Screenshots
+## Screen Captures
+![](Screenshots/SnakeBiteBlackJack.gif?raw=true)
 ![](Screenshots/start.PNG?raw=true)
 ![](Screenshots/snake.PNG?raw=true)
 ![](Screenshots/win.PNG?raw=true)
